@@ -11,7 +11,7 @@ public class Main {
         toyo2.setdVelocidadMaxima(300);
         System.out.println("Velocidad Máxima: " + toyo2.getdVelocidadMaxima());
 
-
+        System.out.println("editado por Stefany");
         System.out.println("========================================== ");
 
         Nissan nis = new Nissan(); // 220
